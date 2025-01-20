@@ -1,11 +1,20 @@
-<h2 align="left">Hi 👋! My name is Muhammad Numan and I'm a Senior Full Stack Developer</h2>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=numanansari0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=numanansari0&locale=en&hide_title=false&layout=compact&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">I'm 𝗠𝘂𝗵𝗮𝗺𝗺𝗮𝗱 𝗡𝘂𝗺𝗮𝗻, a 𝘀𝗲𝗻𝗶𝗼𝗿 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with 𝗲𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲 𝗶𝗻 𝗰𝗿𝗮𝗳𝘁𝗶𝗻𝗴 𝘂𝘀𝗲𝗿-𝗰𝗲𝗻𝘁𝗿𝗶𝗰 𝘄𝗲𝗯𝘀𝗶𝘁𝗲𝘀.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Computer Scientist <br>📚 Full Stack Dev | Cyber Security Enthusiast<br>🎯 Goals: AI, Automation<br>🎲 Fun fact: Code Ninja by Day, Gamify Everything</p>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
